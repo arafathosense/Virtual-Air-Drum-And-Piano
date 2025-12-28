@@ -59,4 +59,15 @@ A real-time, webcam-powered instrument that lets you play drum or piano sounds i
 - Replace synthesized tones with studio samples.
 - Provide MIDI output for integration with DAWs.
 
-Enjoy jamming in mid-air!
+## 👤 Author
+
+**HOSEN ARAFAT**  
+
+**Software Engineer, China**  
+
+**GitHub:** https://github.com/arafathosense
+
+**Researcher: Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Image Processing**
+
+
+
